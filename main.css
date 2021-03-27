@@ -1,0 +1,33 @@
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-image: url("/img/city.jpg");
+  background-size: cover;
+  color: white;
+  font-weight: bold;
+}
+
+img {
+  width: 200px;
+  border-radius: 30%;
+}
+
+#hobby {
+  background-color: #219ebc;
+}
+
+h3 {
+  font-style: italic;
+}
+
+footer {
+  background-color: #219ebc;
+  color: white;
+  padding-bottom: 2rem;
+}
+
+section {
+  padding-top: 5rem;
+}
